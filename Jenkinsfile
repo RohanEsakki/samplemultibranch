@@ -9,6 +9,7 @@ pipeline{
                                          steps{
                                            echo "hello"
                                            echo "how are you"
+                                           echo "Lets push this"
                                          }
                                        }
                                      }
